@@ -7,7 +7,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 STEPS
 
 1) Please clone the project
-2) Change directory - cd angularCDC
+2) Change directory - cd angular-demo
 3) npm install - to install all dependencies (must have node on your local machine)
 4) Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
